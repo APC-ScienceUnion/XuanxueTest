@@ -1,0 +1,640 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "你是谁？你从哪来来？要到哪里去？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 1
+    },
+    {
+      "id": 2,
+      "questionText": "我是我吗？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 3,
+      "questionText": "他们说把衣服脱光的赤身裸体才是真正的我，穿上衣服就是各种各样的伪装，但是就算赤身裸体，人依然可以靠表情动作隐藏自己，甚至就算没有别人只是在自己的精神世界，面对痛苦恐惧焦虑愧疚，我们甚至会欺骗我们自己……真正的我究竟在哪呢？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 4,
+      "questionText": "里面陈列着动植物的尸体碎块，一般人认为他们很好吃。人们从自然中脱颖而出后，基于自身的秩序建立了社会，发展出文明，形成了道德。但是道德是人与人之间的，就算不吃什么的习惯也是因为在那样的社会条件中有假定存在的他人的认可才得以影响我们，要说剥夺其他物种生命以养育自己是罪孽，那就是人类聪慧本身的原罪了，毕竟弱肉强食的自然中动物们大抵不会考虑那么多。但是，也有比较聪慧的产生社会结构的动物，和因为各种原因不存在智慧意识的人类，他们在文明与道德的话语中位于何处呢？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 5,
+      "questionText": "此处只有抽象的我，因此是固定在幻影中、了无生机的、死去的我，纯粹的、自由的、一无所有的我。那么我是谁的孩子？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 6,
+      "questionText": "这是卡尔·马克思的坟墓，他成为了一个幽灵，他想问你还有多久历史才会开始？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 7,
+      "questionText": "这是上帝和尼采的合葬墓，无论如何他们都死了，你有什么想问上帝的吗？尼采或许可以为你带话。",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 8,
+      "questionText": "这是最早的先祖的坟墓，里面埋着未来最后一个人类，他不想继续死着，于是他问你人类会在什么时候灭亡？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 2
+    },
+    {
+      "id": 9,
+      "questionText": "崔健、于谦、梁龙、董亚千可以同时用下列选项中哪一项概括：",
+      "type": "SingleChoice",
+      "options": ["生活在侏罗纪", "摇滚歌手", "相声演员", "将军"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 10,
+      "questionText": "下列选项内职业一致的是？",
+      "type": "SingleChoice",
+      "options": ["冰心、泰戈尔、但丁、霍元甲", "杨金水、牛顿、麦克斯韦、特斯拉", "马克思·韦伯、孔德、涂尔干、卡尔·马克思", "毕加索、希特勒、乾隆、一龙·马斯克"],
+      "correctAnswer": "2",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 11,
+      "questionText": "无禁手初始规则五子棋已被弱解，其结果是？",
+      "type": "SingleChoice",
+      "options": ["先手必胜", "后手必胜", "必和", "五子不行", "举手必胜"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 12,
+      "questionText": "\"斯蒂庞克栽培、玉座金佛表现\"这一梗出自哪一电视剧？",
+      "type": "SingleChoice",
+      "options": ["《潜伏》", "《渗透》", "《亮剑》", "《济公》"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 13,
+      "questionText": "下列选项中的电影与其他选项不一样的是？",
+      "type": "SingleChoice",
+      "options": ["《大圣归来》", "《功夫熊猫》", "《流浪地球》", "《哪吒》"],
+      "correctAnswer": "2",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 14,
+      "questionText": "\"不如高卧且加餐\"前一句是？",
+      "type": "SingleChoice",
+      "options": ["李白斗酒诗百篇", "醉后不知天在水", "垂死病中惊坐起", "世事浮云何足问"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 15,
+      "questionText": "下列航空器中，按照现有轨迹推算，谁还有机会回到地球？",
+      "type": "SingleChoice",
+      "options": ["旅行者一号", "卡西尼号", "东方红一号", "祝融号"],
+      "correctAnswer": "2",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 16,
+      "questionText": "下列选项中不用于减材制造的是？",
+      "type": "SingleChoice",
+      "options": ["车床", "刨床", "铣床", "3D打印机"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 17,
+      "questionText": "下列战役中性质不同于其他选项的是？",
+      "type": "SingleChoice",
+      "options": ["北伐战争", "解放战争", "西班牙内战", "抗美援朝"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 18,
+      "questionText": "下列选项中媒介载体不同的一项是？",
+      "type": "SingleChoice",
+      "options": ["《原神》", "《动物井》", "《死亡搁浅》", "《查理九世》"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 19,
+      "questionText": "历史发展的动力来自于？",
+      "type": "SingleChoice",
+      "options": ["阶级斗争", "优胜劣汰", "神之推动", "少数天才"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 20,
+      "questionText": "下列选项中历史最悠久的是？",
+      "type": "SingleChoice",
+      "options": ["游标卡尺", "蒸汽机", "核动力时钟", "卫生纸"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 21,
+      "questionText": "下列选项中，满足乘法（内积）交换律的为？",
+      "type": "SingleChoice",
+      "options": ["四元数", "矩阵", "复数向量", "八元数"],
+      "correctAnswer": "2",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 22,
+      "questionText": "太乙玄门剑是哪一门派的武术？",
+      "type": "SingleChoice",
+      "options": ["少林", "武当", "峨眉", "浑元形意太极拳"],
+      "correctAnswer": "3",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 23,
+      "questionText": "这张试卷写完后你应当交到哪里？",
+      "type": "SingleChoice",
+      "options": ["厕所", "孔子祭坛", "老师办公室", "世界的裂隙"],
+      "correctAnswer": "2",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 3
+    },
+    {
+      "id": 24,
+      "questionText": "下列选项中，哪些选项望文生义是错误的？",
+      "type": "MultipleChoice",
+      "options": ["首当其冲", "空穴来风", "树深时见鹿", "人定胜天"],
+      "correctAnswer": "",
+      "correctAnswerIndices": [0, 1, 3],
+      "score": 4,
+      "stageNumber": 3
+    },
+    {
+      "id": 25,
+      "questionText": "下列选项中，哪些选项是伟大的？",
+      "type": "MultipleChoice",
+      "options": ["唐纳德·特朗普", "神", "人民群众", "天"],
+      "correctAnswer": "",
+      "correctAnswerIndices": [1, 2],
+      "score": 4,
+      "stageNumber": 3
+    },
+    {
+      "id": 26,
+      "questionText": "下列选项中，哪一项至今尚存于世？",
+      "type": "MultipleChoice",
+      "options": ["传国玉玺", "四羊方尊", "《乐经》", "《红楼梦》原后40回"],
+      "correctAnswer": "",
+      "correctAnswerIndices": [1],
+      "score": 4,
+      "stageNumber": 3
+    },
+    {
+      "id": 27,
+      "questionText": "下列选项中，哪一项可能实现？",
+      "type": "MultipleChoice",
+      "options": ["共产主义", "强人工智能", "可控核聚变", "永生不死"],
+      "correctAnswer": "",
+      "correctAnswerIndices": [0, 1, 2, 3],
+      "score": 4,
+      "stageNumber": 3
+    },
+    {
+      "id": 28,
+      "questionText": "请选择最想要选择的选项：",
+      "type": "MultipleChoice",
+      "options": ["钱", "真理", "权力", "正义", "智慧", "死亡", "希望"],
+      "correctAnswer": "",
+      "correctAnswerIndices": [],
+      "score": 4,
+      "stageNumber": 3
+    },
+    {
+      "id": 29,
+      "questionText": "为你自己出一道选择题，并给出你的答案。",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 3
+    },
+    {
+      "id": 30,
+      "questionText": "依据E=mc² ，可以证明勾股定理a²+b²=c²",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 31,
+      "questionText": "以假命题为前提可以推论得到任何命题为真",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 32,
+      "questionText": "量子通信打破了量子纠缠不传递信息的铁律",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 33,
+      "questionText": "红与黑的主角于连姓于，和于勒是亲戚",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 34,
+      "questionText": "天龙八部有八本，正如八大山人一共八位",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 35,
+      "questionText": "三个不同的两两垂直的方向上的三视图就可以完全确定任何一个三维几何形状。",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 36,
+      "questionText": "此后你交卷后你还可以随时拿回来修改",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 37,
+      "questionText": "凡以此兴，必以此亡，故而资产阶级必然灭亡",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 38,
+      "questionText": "六十四卦中唯一一个卦辞全为好的是第十五卦，上坤下艮\"谦\"卦",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "0",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 39,
+      "questionText": "这道题的答案是错",
+      "type": "TrueFalse",
+      "options": ["正确", "错误"],
+      "correctAnswer": "1",
+      "correctAnswerIndices": null,
+      "score": 2,
+      "stageNumber": 3
+    },
+    {
+      "id": 40,
+      "questionText": "学习的目的是什么？分数又意味着什么？",
+      "type": "ShortAnswer",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 3
+    },
+    {
+      "id": 41,
+      "questionText": "现在我该去大学了，我要成为（）的人。",
+      "type": "FillInBlank",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 10,
+      "stageNumber": 4
+    },
+    {
+      "id": 42,
+      "questionText": "该猪舍密码写是什么意思？",
+      "type": "ImagePuzzle",
+      "options": null,
+      "correctAnswer": "ideology",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 4,
+      "imagePath": "Images/Stage4/pig_house_code.png",
+      "keyReward": "right_stair_key"
+    },
+    {
+      "id": 43,
+      "questionText": "写出'material-basis'的摩斯电码",
+      "type": "Puzzle",
+      "options": null,
+      "correctAnswer": "-- .- - . .-. .. .- .-.. -....- -... .- ... .. ...",
+      "correctAnswerIndices": null,
+      "score": 3,
+      "stageNumber": 4,
+      "keyReward": "left_stair_key"
+    },
+    {
+      "id": 44,
+      "questionText": "谜题组合（左2层）",
+      "type": "Puzzle",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 6,
+      "stageNumber": 4,
+      "keyReward": "right_floor2_key",
+      "subQuestions": [
+        {
+          "id": 441,
+          "questionText": "声母猜诗词：'JWHGD,CBSNS'",
+          "type": "ShortAnswer",
+          "correctAnswer": "今我何功德，曾不事农桑",
+          "score": 3,
+          "stageNumber": 4
+        },
+        {
+          "id": 442,
+          "questionText": "谜面'if True is False：False = True; '写整个诗句",
+          "type": "ShortAnswer",
+          "correctAnswer": "假作真时真亦假，无为有处有还无",
+          "score": 3,
+          "stageNumber": 4
+        }
+      ],
+      "hints": ["上一横是天，下一横是地，中间一竖顶天立地", "人生变改故无穷"]
+    },
+    {
+      "id": 45,
+      "questionText": "谜题组合（右2层）",
+      "type": "Puzzle",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 6,
+      "stageNumber": 4,
+      "keyReward": "left_floor2_key",
+      "subQuestions": [
+        {
+          "id": 451,
+          "questionText": "谜面'顶天立地者何人？'",
+          "type": "ShortAnswer",
+          "correctAnswer": "工人",
+          "score": 3,
+          "stageNumber": 4
+        },
+        {
+          "id": 452,
+          "questionText": "谜面'（），大肠包小肠'",
+          "type": "ShortAnswer",
+          "correctAnswer": "人生无常",
+          "score": 3,
+          "stageNumber": 4
+        }
+      ],
+      "hints": ["吏禄三百石，岁晏有余粮。", "贾雨村，甄士隐"]
+    },
+    {
+      "id": 46,
+      "questionText": "三盘棋谜题（左3层）",
+      "type": "Puzzle",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 10,
+      "stageNumber": 4,
+      "keyReward": "right_final_key",
+      "subQuestions": [
+            {
+              "id": 4611,
+              "questionText": "白先杀黑可以下在A（）？",
+              "type": "ImageInput",
+              "correctAnswer": "3",
+              "imagePath": "Images/Stage4/chess_1",
+              "score": 2,
+              "stageNumber": 4
+            },
+            {
+              "id": 4612,
+              "questionText": "红先，可以走车（）进六形成双车错？",
+              "type": "ImageInput",
+              "correctAnswer": "一",
+              "imagePath": "Images/Stage4/chess_2",
+              "score": 2,
+              "stageNumber": 4
+            },
+            {
+              "id": 4613,
+              "questionText": "黑方此时可以将后移置h（）将死白方？",
+              "type": "ImageInput",
+              "correctAnswer": "4",
+              "imagePath": "Images/Stage4/chess_3",
+              "score": 2,
+              "stageNumber": 4
+            },
+        {
+          "id": 462,
+          "questionText": "A=1，B=2，C=0，D=（）",
+          "type": "FillInBlank",
+          "correctAnswer": "1",
+          "score": 2,
+          "stageNumber": 4
+        },
+        {
+          "id": 463,
+          "questionText": "（右侧答案字母组成的三位数）+150 = ？",
+          "type": "FillInBlank",
+          "correctAnswer": "360",
+          "score": 2,
+          "stageNumber": 4
+        }
+      ],
+      "hints": ["3,1,4", "6：13，7：17"]
+    },
+    {
+      "id": 47,
+      "questionText": "综合谜题（右3层）",
+      "type": "Puzzle",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 10,
+      "stageNumber": 4,
+      "keyReward": "left_final_key",
+      "subQuestions": [
+        {
+              "id": 4711,
+              "questionText": "洛天依的色号是？",
+              "type": "FillInBlank",
+              "correctAnswer": "66CCFF",
+              "score": 2,
+              "stageNumber": 4
+            },
+            {
+              "id": 4712,
+              "questionText": "木之本樱的生日是？格式：x月x日",
+              "type": "FillInBlank",
+              "correctAnswer": "4月1日",
+              "score": 2,
+              "stageNumber": 4
+            },
+            {
+              "id": 4713,
+              "questionText": "哪个是塞尔达？",
+              "type": "ImageChoice",
+              "options": ["选项A图片", "选项B图片", "选项C图片", "选项D图片"],
+              "correctAnswer": "2",
+              "imagePaths": ["Images/Stage4/zelda_A.png", "Images/Stage4/zelda_B.png", "Images/Stage4/zelda_C.png", "Images/Stage4/zelda_D.png"],
+              "score": 2,
+              "stageNumber": 4
+            },
+        {
+          "id": 472,
+          "questionText": "1：2 ，2：3 ，3：5 ，5：（）",
+          "type": "FillInBlank",
+          "correctAnswer": "11",
+          "score": 2,
+          "stageNumber": 4
+        },
+        {
+          "id": 473,
+          "questionText": "（左侧答案对应的三位数）-271 =？",
+          "type": "FillInBlank",
+          "correctAnswer": "256",
+          "score": 2,
+          "stageNumber": 4
+        }
+      ],
+      "hints": ["BDC", "P = O = Q = 1"]
+    },
+    {
+      "id": 80,
+      "questionText": "伟大之作：从爱、政治、科学、艺术四项中选择一个或几个主题，采取至少两种不同的创作形式共同表达你选择的主题。文字以外的表述方式可以通过附件的形式和导出的答题卡一并上交给考官。",
+      "type": "Essay",
+      "options": null,
+      "correctAnswer": "",
+      "correctAnswerIndices": null,
+      "score": 80,
+      "stageNumber": 6
+    },
+    {
+      "id": 81,
+      "questionText": "此处的卦象是？用1代表阳爻，0代表阴爻",
+      "type": "FillInBlank",
+      "options": null,
+      "correctAnswer": "011100",
+      "correctAnswerIndices": null,
+      "score": 10,
+      "stageNumber": 5
+    },
+    {
+      "id": 323,
+      "questionText": "这是一个三位密码锁，请输入三位数字解锁。",
+      "type": "FillInBlank",
+      "options": null,
+      "correctAnswer": "323",
+      "correctAnswerIndices": null,
+      "score": 5,
+      "stageNumber": 5
+    }
+  ]
+} 

@@ -1,0 +1,210 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "试卷",
+      "description": "精心作答的试卷，希望能取得优异的成绩",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 2,
+      "name": "提示1",
+      "description": "上一横是天，下一横是地，中间一竖顶天立地",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 3,
+      "name": "提示2",
+      "description": "人生变改故无穷",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 4,
+      "name": "提示3",
+      "description": "吏禄三百石，岁晏有余粮。",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 5,
+      "name": "提示4",
+      "description": "贾雨村，甄士隐",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 6,
+      "name": "提示5",
+      "description": "3,1,4",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 7,
+      "name": "提示6",
+      "description": "6：13，7：17",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 8,
+      "name": "提示7",
+      "description": "BDC",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 9,
+      "name": "提示8",
+      "description": "P = O = Q = 1",
+      "category": "item",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 101,
+      "name": "药草",
+      "description": "",
+      "category": "item",
+      "price": 15,
+      "iconPath": ""
+    },
+    {
+      "id": 102,
+      "name": "魔药",
+      "description": "",
+      "category": "item",
+      "price": 30,
+      "iconPath": ""
+    },
+    {
+      "id": 103,
+      "name": "面包",
+      "description": "",
+      "category": "item",
+      "price": 12,
+      "iconPath": ""
+    },
+    {
+      "id": 104,
+      "name": "《如来神掌》",
+      "description": "你可曾听说过一招从天而降的掌法？修炼如下口诀，即可神功大成！\n“坟头三两三，树上挂泽山\n桥回却敲五，念头有佛龛”\n",
+      "category": "book",
+      "price": 10,
+      "shop": "神秘商店",
+      "iconPath": ""
+    },
+    {
+        "id": 1001,
+        "name": "假护照",
+        "description": "做工不是很精良的假护照",
+        "category": "item",
+        "price": 20,
+        "iconPath": ""
+    },
+    {
+        "id": 1002,
+        "name": "马桶搋子",
+        "description": "真的会有人买这个吗？",
+        "category": "item",
+        "price": 10,
+        "shop": "小贩",
+        "iconPath": ""
+    },
+    {
+      "id": 3003,
+      "name": "地狱疣",
+      "description": "来自地狱的神秘植物",
+      "category": "material",
+      "price": 5,
+      "shop": "药法店",
+      "iconPath": ""
+    },
+    {
+      "id": 3004,
+      "name": "巨大火花弹",
+      "description": "威力巨大的魔法炸弹",
+      "category": "bomb",
+      "price": 150,
+      "shop": "药法店",
+      "iconPath": ""
+    },
+    {
+      "id": 5001,
+      "name": "石镐",
+      "description": "免费获得的石制镐子，可以用来挖矿",
+      "category": "special",
+      "price": 0,
+      "iconPath": ""
+    },
+    {
+      "id": 6001,
+      "name": "魔将玄武",
+      "description": "传说中的魔将，现在变成了石头的样子",
+      "category": "special",
+      "price": 0,
+      "shop": "路旁石头",
+      "iconPath": ""
+    },
+    {
+      "id": 7001,
+      "name": "集",
+      "description": "???",
+      "category": "special",
+      "price": 0,
+      "shop": "树屋A",
+      "iconPath": ""
+    } ,
+    {
+      "id": 7002,
+      "name": "灭",
+      "description": "???",
+      "category": "special",
+      "price": 0,
+      "iconPath": ""
+    }  ,
+    {
+      "id": 7003,
+      "name": "苦",
+      "description": "???",
+      "category": "special",
+      "price": 0,
+      "iconPath": ""
+    } ,
+    {
+      "id": 8001,
+      "name": "拉莱耶碎砖",
+      "description": "可以代替打水漂的魔将玄武",
+      "category": "special",
+      "price": 999,
+      "iconPath": ""
+    } ,
+    {
+      "id": 8002,
+      "name": "镜子",
+      "description": "看清你的本质",
+      "category": "special",
+      "price": 10,
+      "iconPath": ""
+    } ,
+    {
+      "id": 9001,
+      "name": "精灵女王的宝石手镯",
+      "description": "有着充沛的奇异的生命魔力",
+      "category": "special",
+      "price": 0,
+      "iconPath": ""
+    }
+  ]
+}
