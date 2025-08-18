@@ -76,8 +76,7 @@ namespace XuanZhiShiLian
         {
             List<DialogueData> completionDialogue = new List<DialogueData>
             {
-                DialogueSystem.CreateInteractionHint("答案已提交", 0f),
-                DialogueSystem.CreateSubtitle("", "Stage6 完成")
+                DialogueSystem.CreateSubtitle("", "感谢赏玩！")
             };
             
             if (DialogueSystem.Instance != null)
@@ -96,7 +95,7 @@ namespace XuanZhiShiLian
         {
             // 完成当前阶段
             GameManager.Instance.CompleteStage(6);
-            GameManager.Instance.LoadScene("Stage4");
+            GameManager.Instance.LoadScene("Stage0");
         }
         
         private void Update()

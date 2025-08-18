@@ -248,6 +248,11 @@ namespace XuanZhiShiLian
         /// </summary>
         public void HideQuestion()
         {
+            // Stage0 禁止关闭题目面板
+            if (GameManager.Instance != null && GameManager.Instance.currentStage == 1)
+            {
+                return;
+            }
             if (questionPanel != null)
             {
                 questionPanel.SetActive(false);

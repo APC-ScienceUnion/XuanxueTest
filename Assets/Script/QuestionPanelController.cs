@@ -1061,6 +1061,12 @@ namespace XuanZhiShiLian
         
         private void OnClose()
         {
+            // Stage0 禁止关闭题目面板
+            if (GameManager.Instance != null && GameManager.Instance.currentStage == 1)
+            {
+                return;
+            }
+
             // 恢复玩家移动（无论单题目还是题目组模式）
             if (nearbyPlayer != null)
             {
@@ -1132,14 +1138,16 @@ namespace XuanZhiShiLian
             bool isSingleQuestion = questionGroup.Count == 1;
             bool isFirstQuestion = currentQuestionIndex == 0;
             bool isLastQuestion = currentQuestionIndex == questionGroup.Count - 1;
+            bool isStage0 = GameManager.Instance != null && GameManager.Instance.currentStage == 0;
             
             Debug.Log($"🔘 UpdateButtonStates - 单题模式: {isSingleQuestion}, 第一题: {isFirstQuestion}, 最后一题: {isLastQuestion}");
             
             // 关闭按钮：总是显示，但单题目模式和题目组模式的行为不同
             if (closeButton != null)
             {
-                closeButton.gameObject.SetActive(true);  // 总是显示关闭按钮
-                Debug.Log($"关闭按钮显示: true");
+                // 在Stage0隐藏关闭按钮，避免被关闭
+                closeButton.gameObject.SetActive(!isStage0);
+                Debug.Log($"关闭按钮显示: {!isStage0}");
             }
             else
             {
